@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Currently learning: Swift, NestJS and TypeScript<br>🎲 Currently working on: A voice automation startup and helping early-stage founders.<br>🎯 Goals: Build meaningful tech that powers real change, and co-found something that matters</p>
+<p align="left">📚 Currently learning: Swift and TypeScript<br>🎲 Currently working on: A voice automation startup and helping early-stage founders.<br>🎯 Goals: Build meaningful tech that powers real change, and co-found something that matters</p>
 
 ###
 
