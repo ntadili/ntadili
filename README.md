@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Currently learning: TypeScript<br>🎲 Currently working on: A voice automation startup and helping early-stage founders.<br>🎯 Goals: Build meaningful tech that powers real change, and found something that matters</p>
+<p align="left">📚 Currently learning: TypeScript<br>🎲 Currently working on: an iOS app tackling a huge problem in the religious niche.
 
 ###
 
