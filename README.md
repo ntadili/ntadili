@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Currently learning: TypeScript<br>🎲 Currently working on: an iOS app tackling a huge problem in the religious niche.
+<p align="left">📚 Currently learning: TypeScript<br>🎲 Currently working on building iOS apps.
 
 ###
 
